@@ -1,3 +1,5 @@
-# TITLE
+# robhe-react-template
 
-## Description
+## Includes following services
+- prettier config
+- eslint config (npm init @eslint/config)
